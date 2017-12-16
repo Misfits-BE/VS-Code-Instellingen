@@ -1,0 +1,22 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "window.zoomLevel": -1,
+    "git.confirmSync": false,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Snappy Contrast (rainglow)",
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.openEditors.visible": 0,
+    "sync.gist": "f0ad8ba2b754b84290663e88836c6c05",
+    "sync.lastUpload": "2017-12-16T02:19:49.202Z",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "sync.anonymousGist": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "editor.tabCompletion": true,
+    "php-cs-fixer.onsave": true
+}
